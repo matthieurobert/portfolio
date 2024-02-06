@@ -22,3 +22,5 @@ Sur ce projet, j'ai principalement travaillé sur la partie backend de l'applica
 J'ai également mis en place une base de données PostgreSQL pour stocker les données de l'application. 
 
 Enfin, j'ai utilisé Docker pour déployer l'application sur un serveur afin de rendre l'application accessible à tous les étudiants et enseignants de l'IUT.
+
+Dans ce projet, la gestion de projet a été un élément clé. Nous avons utilisé Github Projects pour organiser notre travail et suivre la progression du projet. Nous avons également utilisé des outils de CI/CD pour automatiser le déploiement de l'application. 
