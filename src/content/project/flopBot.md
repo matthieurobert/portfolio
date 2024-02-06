@@ -1,6 +1,6 @@
 ---
 title: Flop Bot
-description: Intégration d'un bot discord à l'application FlopEdt afin de notifier les étudiant des changements d'emploi du temps
+description: Intégration d'un bot Discord à l'application FlopEdt afin de notifier les étudiant des changements d'emploi du temps
 img: "/portfolio/flopbot.png"
 badge: ""
 url: https://framagit.org/Eric-Philippe/flop-edt-flop-scheduler-flop-bot
@@ -11,8 +11,8 @@ Dans le cadre du quatrième semestre de ma formation à l'IUT de Blagnac, j'ai p
 
 ## Contexte
 
-FlopEdt est une application web permettant aux étudiants de l'IUT de Blagnac de consulter leur emploi du temps. Lorque l'emploi du temps est modifié, les étudiants ne sont pas notifiés. Pour remédier à cela, nous avons décidé d'intégrer un bot discord à l'application. Ce bot est capable de notifier les étudiants des changements d'emploi du temps.
+FlopEdt est une application web permettant aux étudiants de l'IUT de Blagnac de consulter leur emploi du temps. Lorsque l'emploi du temps est modifié, les étudiants ne sont pas notifiés. Pour remédier à cela, nous avons décidé d'intégrer un bot Discord à l'application. Ce bot est capable de notifier les étudiants des changements d'emploi du temps.
 
 ## Ma contribution
 
-Sur ce projet, j'ai principalement travaillé sur la partie backend de l'application. J'ai utilisé le framework Django pour compléter l'API REST existante, en ajoutant la connection de à discord afin de pouvoir envoyer des messages aux étudiants lorsqu'un changement d'emploi du temps est détecté.
+Sur ce projet, j’ai principalement travaillé sur la partie backend de l’application. J’ai utilisé le framework Django pour compléter l’API REST existante, en ajoutant la connexion à Discord afin de pouvoir envoyer des messages aux étudiants lorsqu’un changement d’emploi du temps est détecté.

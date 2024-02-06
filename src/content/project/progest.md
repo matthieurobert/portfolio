@@ -1,6 +1,6 @@
 ---
 title: ProGest
-description: Application de gestions de projet pour l'IUT de Blagnac
+description: Application de gestion de projet pour l'IUT de Blagnac
 img: "/portfolio/progest.png"
 badge: ""
 url: https://github.com/IUT-Blagnac/sae-5-1-01-phase4-c-react
