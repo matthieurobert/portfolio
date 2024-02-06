@@ -4,6 +4,8 @@
 
 This is my portfolio, it is a website that presents my work and my skills. It is composed of a home page and a projects page.
 
+This website is built using [astrofy](https://github.com/manuelernestog/astrofy) template.
+
 ## Technologies
 
 - [Astro](https://astro.build/)
